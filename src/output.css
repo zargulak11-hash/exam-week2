@@ -1851,6 +1851,11 @@
       margin-top: 0;
     }
   }
+  .lg\:mt-\[1\] {
+    @media (width >= 64rem) {
+      margin-top: 1;
+    }
+  }
   .lg\:mt-\[20px\] {
     @media (width >= 64rem) {
       margin-top: 20px;
@@ -1889,6 +1894,11 @@
   .lg\:mt-\[130px\] {
     @media (width >= 64rem) {
       margin-top: 130px;
+    }
+  }
+  .lg\:mt-\[150px\] {
+    @media (width >= 64rem) {
+      margin-top: 150px;
     }
   }
   .lg\:ml-0 {
